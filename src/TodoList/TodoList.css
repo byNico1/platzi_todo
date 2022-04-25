@@ -1,0 +1,6 @@
+ul{
+    margin-top: 40px;
+    list-style: none;
+    display:grid;
+    place-items: center;
+}

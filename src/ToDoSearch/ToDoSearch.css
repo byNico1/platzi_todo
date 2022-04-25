@@ -1,0 +1,10 @@
+.searchbar{
+    margin-top: 40px;
+    height: 4rem;
+    border: 1px solid rgb(255, 124, 2);
+    border-radius: 20px;
+    width: 20rem;
+    box-shadow: 2px 2px 10px rgba(0,0,0);
+    font-size: 24px;
+    color: #000;
+}

@@ -1,0 +1,18 @@
+.todoCounter{
+    font-size: 24px;
+    margin: 0;
+    padding: 25px;
+    color: #402525;
+    
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 160px;
+}
+.todo__counter-title{
+    margin-top: 30px;
+  color: #000;
+  
+}
