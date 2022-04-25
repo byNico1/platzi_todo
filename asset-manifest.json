@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/byNico1/platzi_todo.git/static/css/main.f959ba0b.css",
+    "main.js": "/byNico1/platzi_todo.git/static/js/main.f37662ee.js",
+    "index.html": "/byNico1/platzi_todo.git/index.html",
+    "main.f959ba0b.css.map": "/byNico1/platzi_todo.git/static/css/main.f959ba0b.css.map",
+    "main.f37662ee.js.map": "/byNico1/platzi_todo.git/static/js/main.f37662ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f959ba0b.css",
+    "static/js/main.f37662ee.js"
+  ]
+}
