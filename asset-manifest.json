@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/byNico1/todos.git/static/css/main.f959ba0b.css",
-    "main.js": "/byNico1/todos.git/static/js/main.f37662ee.js",
-    "index.html": "/byNico1/todos.git/index.html",
-    "main.f959ba0b.css.map": "/byNico1/todos.git/static/css/main.f959ba0b.css.map",
-    "main.f37662ee.js.map": "/byNico1/todos.git/static/js/main.f37662ee.js.map"
+    "main.css": "/byNico1/lasttodo.git/static/css/main.1d7d4556.css",
+    "main.js": "/byNico1/lasttodo.git/static/js/main.3706977d.js",
+    "index.html": "/byNico1/lasttodo.git/index.html",
+    "main.1d7d4556.css.map": "/byNico1/lasttodo.git/static/css/main.1d7d4556.css.map",
+    "main.3706977d.js.map": "/byNico1/lasttodo.git/static/js/main.3706977d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f959ba0b.css",
-    "static/js/main.f37662ee.js"
+    "static/css/main.1d7d4556.css",
+    "static/js/main.3706977d.js"
   ]
 }
