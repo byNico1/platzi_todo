@@ -9,7 +9,9 @@ import {TodoProvider} from '../TodoContext'
 function App() {
   return (
     <TodoProvider>
-      <AppUI />
+      <div className="main">
+        <AppUI />
+      </div>
     </TodoProvider>
   );
 }

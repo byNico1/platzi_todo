@@ -25,7 +25,7 @@ const AppUI = () => {
   } = useContext(TodoContext)
 
   return (
-    <body>
+    <div>
     <TodoCounter />  
     <TodoSearch />
 
@@ -47,7 +47,7 @@ const AppUI = () => {
       setOpenModal={setOpenModal}
       openModal={openModal}
     />   
-</body>    
+</div>    
   )
 }
 
