@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lasttodo/static/css/main.1d7d4556.css",
-    "main.js": "/lasttodo/static/js/main.3706977d.js",
-    "index.html": "/lasttodo/index.html",
-    "main.1d7d4556.css.map": "/lasttodo/static/css/main.1d7d4556.css.map",
-    "main.3706977d.js.map": "/lasttodo/static/js/main.3706977d.js.map"
+    "main.css": "/platzi_todo/static/css/main.1d7d4556.css",
+    "main.js": "/platzi_todo/static/js/main.3706977d.js",
+    "index.html": "/platzi_todo/index.html",
+    "main.1d7d4556.css.map": "/platzi_todo/static/css/main.1d7d4556.css.map",
+    "main.3706977d.js.map": "/platzi_todo/static/js/main.3706977d.js.map"
   },
   "entrypoints": [
     "static/css/main.1d7d4556.css",
